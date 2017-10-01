@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "fc483c7"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_commander_restrictions.smx"
+  }
+}

@@ -1,0 +1,76 @@
+// Exported from SourceMod Translator
+// Date: 2016-10-27 01:12:38 UTC
+// Language: German (de)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/257
+//
+"Phrases"
+{
+
+	"Demotion Reapply"
+	{
+		"de"		"Du darfst dich nicht als Kommandeur bewerben, nachdem du abwählt wurdest"
+	}
+
+	"Bellow Ten"
+	{
+		"de"		"Spieler unter level 10 können nur <10 Spieler befehligen oder der Durchschnittslevel muss <25 betragen"
+	}
+
+	"Fifty Five Required"
+	{
+		"de"		"Level 40+ Spieler werden ab 24 Spielern als Kommandeur bevorzugt"
+	}
+
+	"Total Level"
+	{
+		"de"		"Du kannst nicht mehr Spieler befehlen als dein Level zulässt"
+	}
+
+	"Already Voted"
+	{
+		"de"		"Du hast bereits abgestimmt den Kommandeur abzuwählen"
+	}
+
+	"Round End"
+	{
+		"de"		"Diese Funktion kann nach dem Ende der Runde nicht benutzt werden."
+	}
+
+	"Round Started"
+	{
+		"de"		"Warte mit dem Absetzen bis die Runde gestartet hat"
+	}
+
+	"Demote Failed"
+	{
+		"de"		"Fehler! Keinen Kommandeur zum Absetzen gefunden"
+	}
+
+	"Demote First"
+	{
+		"de"		"Du kannst keine neue Abstimmung nach dem Absetzen starten"
+	}
+
+	"Silence Command"
+	{
+		"de"		"Du kannst nichts befehlen während du stumm bist"
+	}
+
+	"Restrictions Relaxed"
+	{
+		"de"		"Kommandeurbeschränkung verringert"
+	}
+
+	"Demote Not Found"
+	{
+		"de"		"Deine Stimme zur Abwahl des Kommandeurs wurde bereits zurückgezogen"
+	}
+
+	"Demote Vote"
+	{
+		"de"		"{1} will den Kommandeur absetzen - !demote. ({2} weitere Stimmen benötigt)"
+	}
+
+}

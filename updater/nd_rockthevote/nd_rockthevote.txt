@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "aea62fd"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_rockthevote.smx"
+  }
+}

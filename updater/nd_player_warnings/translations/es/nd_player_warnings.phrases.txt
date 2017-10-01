@@ -1,0 +1,17 @@
+﻿"Phrases"
+{
+	"Respect"
+	{
+		"es"		"Por favor sé respetuoso con los otros jugadores del servidor"
+	}
+	
+	"Advertise"
+	{
+		"es"		"Por favor no hagas publicidad en el servidor"	
+	}
+	
+	"Spawn Sell"
+	{
+		"es"		"Vender todos los puntos de reaparición está prohibido en el servidor"	
+	}
+}

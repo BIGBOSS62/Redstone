@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "00294b7"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_team_shuffle.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "bba2710"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/mapchooser.smx"
+  }
+}

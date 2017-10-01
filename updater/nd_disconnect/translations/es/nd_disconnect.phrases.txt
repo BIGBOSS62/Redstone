@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Cookie Lost Connect"
+	{
+		"es"		"Mensajes de desconexión"
+	}
+	
+	"Lost Connection"
+	{
+		//{1} = Player Name
+		"es"		"{1} perdió la conexión!"
+	}
+}

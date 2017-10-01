@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "cc500c9"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/dontshout.smx"
+  }
+}

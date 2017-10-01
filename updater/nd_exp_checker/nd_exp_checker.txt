@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "312b94a"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_exp_checker.smx"
+  }
+}

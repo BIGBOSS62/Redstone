@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "661307d"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_ping.smx"
+  }
+}
