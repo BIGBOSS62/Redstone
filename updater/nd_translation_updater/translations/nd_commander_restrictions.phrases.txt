@@ -1,119 +1,119 @@
 ﻿"Phrases"
 {
-	"Demotion Reapply"
+	"Rétrogradation Réappliquez"
 	{
-		"en"		"You cannot reapply for commander after being demoted"
+		"fr"		"Vous ne pouvez pas postuler pour etre commandant après avoir été rétrogradé"
 	}
 
-	"Resignation Reapply"
+	"Renonciation est réappliquée"
 	{
-		"en"		"You cannot reapply for 30s after mutiny resignation"	
+		"fr"		"Vous ne pouvez pas postuler pendant 30s après la rétrogradation de la mutinerie"	
 	}
 	
-	"Spawn Before Apply"
+	"Revivez Avant d'Appliquer"
 	{
-		"en"		"Please spawn before applying for commander!"	
+		"fr"		"S.V.P. Revivez avant de postuler pour être le commandant!"	
 	}
 	
-	"Bellow Ten"
+	"Moins de Dix"
 	{
-		"en"		"Players bellow level 10 can only command <10 players or level <25 averages."	
+		"fr"		"Les joueurs au-dessous du niveau 10 ne peuvent commander que <10 joueurs ou niveau <25 moyennes."	
 	}
 	
-	"Fifty Five Required"
+	"Cinquante Cinq Requis"
 	{
-		"en"		"Level 40+ commanders are given first pick with 24+ players"
+		"fr"		"Les commandants de niveau 40+ reçoivent un premier choix avec 24 joueurs"
 	}
 	
-	"Total Level"
+	"Niveau Total"
 	{
-		"en"		"You cannot command more total players than your level"
+		"fr"		"Vous ne pouvez pas commander plus de joueurs a votre niveau"
 	}
 	
-	"No Commander"
+	"Pas de Commandant"
 	{
-		"en"		"There is no commander to demote"
+		"fr"		"Il n'y a pas de commandant désigné"
 	}
 	
-	"On Team"
+	"En Equipe"
 	{
-		"en"		"You must be on a team to vote demote"
+		"fr"		"Vous devez être en équipe pour voter/désigné"
 	}
 	
-	"Four Required"
+	"Quatre Requis"
 	{
-		"en"		"Four team players required to use this feature"
+		"fr"		"Besoin d'une équipe de quatre joueurs pour utiliser cette fonctionnalité"
 	}
 	
-	"Already Voted"
+	"Déjà Voté"
 	{
-		"en"		"You've already voted to demote the commander"
+		"fr"		"Vous avez déjà voté pour désignier le commandant"
 	}
 	
-	"Round End"
+	"Fin de Manche"
 	{
-		"en"		"Cannot use this feature after round end"
+		"fr"		"Impossible d'utiliser cette fonctionnalité après la fin de la manche"
 	}
 	
-	"Round Started"
+	"Manche Commencé"
 	{
-		"en"		"Please wait until round start before demoting"	
+		"fr"		"Attendez le début de la manche avant de voter"	
 	}
 	
-	"Commander Demoted"
+	"Commandant Rétrograder"
 	{
-		"en"		"Commander demoted successfully"	
+		"fr"		"Commandant rétrogradé avec succès"	
 	}
 	
-	"Demote Failed"
+	"Rétrogradation Échoué"
 	{
-		"en"		"Error! Commander not found for demotion!"
+		"fr"		"Erreur! Commandant non trouvé pour rétrogradation!"
 	}
 	
-	"Demote First"
+	"Rétrogradation d'abord"
 	{
-		"en"		"You cannot cast the first demote vote after demotion"
+		"fr"		"Vous ne pouvez pas lancer le premier vote de rétrogradation après la rétrogradation"
 	}
 	
-	"Silence First"
+	"Silence d'Abord"
 	{
-		"en"		"You cannot cast the first demote vote while silenced"
+		"fr"		"Vous ne pouvez pas lancer le premier vote de rétrogradation alors qu'il est silencieux"
 	}
 	
-	"Silence Command"
+	"Commandement du Silence"
 	{
-		"en"		"You cannot command while silenced"
+		"fr"		"Vous ne pouvez pas commander pendant le silence"
 	}
 	
-	"Restrictions Relaxed"
+	"Restrictions Relaxées"
 	{
-		"en"		"Commander restrictions relaxed"
+		"en"		"Restrictions du commandant relaxées"
 	}
 	
-	"Demote Not Found"
+	"Rétrogradation Introuvable"
 	{
-		"en"		"Your vote to demote the commander is already reversed or not present."
+		"fr"		"Votre vote pour remplacer le commandant est déjà terminer ou absent."
 	}
 	
-	"Demote Vote"
+	"Vote de Rétrogradation "
 	{
 		"#format"	"{1:s},{2:d}"
-		"en"		"{1} has voted to !demote the commander. ({2} more required)"
+		"fr"		"{1} a voté pour !rétrograder le commandant. ({2} vote de plus nécessaire)"
 	}
 	
-	"Skill Required"
+	"Compétence Requise"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} skill on server stats required to command!"
+		"fr"		"{1} compétence requises sur les statistiques du serveur pour commander!"
 	}
 	
-	"Commander Deprioritised"
+	"Commandant Déprioritisé"
 	{
-		"en"		"You're deprioritized from commander selection and cannot apply in the first 90s."
+		"fr"		"Vous êtes privé de la sélection du commandant et ne pouvez pas postuler au cours des 90 premierss."
 	}
 	
-	"Last Chance Apply"
+	"Dernière Chance Appliquer"
 	{
-		"en"		"15s remaining on prioritized commander applications!"
+		"fr"		"15s restantes pour les demandes de commandement prioritaires!"
 	}
 }
