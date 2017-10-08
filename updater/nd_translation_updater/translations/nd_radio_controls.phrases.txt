@@ -1,13 +1,13 @@
-﻿"Phrases"
+"Phrases"
 {
-	"Radio Disabled"
+	"Radio Désactivé"
 	{
-		"en"		"The radio menu is currently broken or disabled."
+		"fr"		"Le menu radio est actuellement cassé ou désactivé."
 	}
 	
-	"Radio Wait"
+	"Radio Attente"
 	{
 		"#format"	"{1:i}"
-		"en"		"Please wait {1} second(s) before the next radio message."	
+		"fr"		"Merci d'attendre {1} seconde(s) avant le prochain message radio."	
 	}
 }
