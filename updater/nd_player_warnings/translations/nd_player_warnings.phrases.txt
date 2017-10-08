@@ -2,16 +2,16 @@
 {
 	"Respect"
 	{
-		"en"		"Please be respectful of other players on the server"
+		"fr"		"Soyez respectueux des autres joueurs sur le serveur"
 	}
 	
-	"Advertise"
+	"Publicités"
 	{
-		"en"		"Please refrain from posting advertisements"	
+		"fr"		"Veuillez vous abstenir de publier des publicités"	
 	}
 	
-	"Spawn Sell"
+	"Vente de Réapparition"
 	{
-		"en"		"Selling all the spawns is prohibited on this server"	
+		"fr"		"La vente de toutes les Réapparition est interdite sur ce serveur"	
 	}
 }
