@@ -1,7 +1,7 @@
 ﻿"Phrases"
 {
-	"Ammo Supply"
+	"Munitions Supplementaire"
 	{
-		"en"		"You cannot place an ammopack beside a supply station"
+		"fr"		"Vous ne pouvez pas placer un paquet de munitions à côté d'une station d'approvisionnement"
 	}
 }
