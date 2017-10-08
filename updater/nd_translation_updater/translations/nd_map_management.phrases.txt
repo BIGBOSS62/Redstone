@@ -1,32 +1,32 @@
 "Phrases"
 {
-	"Wait Map List"
+	"Attente Liste de Cartes"
 	{
 		"#format"	"{1:d}"
-		"en"		"Please wait {1} seconds before listing previous maps again!"	
+		"fr"		"S'il vous plaît, attendez {1} secondes avant d'afficher les cartes précédentes à nouveau!"	
 	}
 	
-	"Prev Maps Listed"
+	"Listes des Cartes Précédentes"
 	{
-		"en"		"Previous maps listed succesfully. See console for output."
+		"fr"		"Les cartes précédentes sont listées avec succès. Voir la console pour la sortie."
 	}
 	
-	//{1} = Next Map
-	"Retrigger Map Vote"
+	//{1} = Carte Suivante
+	"Revotage Carte Vote"
 	{
 		"#format"	"{1:s}"
-		"en"		"Cycling to {1} canceled by player count thresholds. Map voting will now recommence."
+		"fr"		"Cycling to {1} annulé par le manque de vote des des joueurs. Le vote de carte reprend maintenant."
 	}
 	
-	//{1} = Next Map, {2} = Changed map
-	"Not Enough Players"
+	//{1} = Carte Suivante, {2} = Changement de Carte
+	"Pas assez de joueurs"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"Not enough players for {1}! Next map changed to {2}!"
+		"fr"		"Pas assez de joueurs pour {1}! La carte suivante a changé pour {2}!"
 	}
-	"Too Many Players"
+	"Trop de joueurs"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"Too many players for {1}! Next map changed to {2}!"	
+		"fr"		"Trop de joueurs pour {1}! La carte suivante a changé pour {2}!"	
 	}
 }
